@@ -4,7 +4,7 @@
 - 🌱 I enjoy learning new technologies and sharing findings with my colleagues
 - ⚡ I am proactive, and self-organized, and excel at developing mobile and web applications
 - 🛠 Eager to tackle complex problems
-- 😊 I am always open to talk about ideas, challenges, opportunities, or a simple pleasant conversation.
+- 😊 I am always open to talk about ideas, challenges, opportunities.
 
 ## My tech stack includes, but is not limited by:
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
